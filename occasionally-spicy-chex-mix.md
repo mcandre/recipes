@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-* popcorn
+* plain popcorn
 * small pretzels
 * Chex cereal
 * garlic rye chips

@@ -3,6 +3,7 @@
 * popcorn
 * small pretzels
 * Chex cereal
+* garlic rye chips
 * Cheeze-It crackers
 * wasabi peas
 

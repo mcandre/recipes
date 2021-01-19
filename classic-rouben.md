@@ -1,17 +1,17 @@
 # REQUIREMENTS
 
-• grill or skillet
-• spatula
-• bread knife
-• butter knife
-• butter-flavored cooking spray
-• serving plate
-• rye bread, sliced
-• corned beef, sliced
-• swiss cheese, sliced
-• 14.5 oz sauerkraut, squeezed dry
-• Thousand Island or Russian salad dressing
-• pickles (optional)
+* grill or skillet
+* spatula
+* bread knife
+* butter knife
+* butter-flavored cooking spray
+* serving plate
+* rye bread, sliced
+* corned beef, sliced
+* swiss cheese, sliced
+* 14.5 oz sauerkraut, squeezed dry
+* Thousand Island or Russian salad dressing
+* pickles (optional)
 
 # INSTRUCTIONS
 

@@ -1,21 +1,21 @@
 # REQUIREMENTS
 
-• stove
-• stove pot
-• frying pan
-• olive oil
-• colander
-• mixing bowl
-• spaghetti stirrer
-• stirring spoon
-• serving bowls
-• serving spoons
-• tri-color rotini
-• ground turkey
-• button mushrooms
-• yellow onion
-• parmesean cheese
-• salt
+* stove
+* stove pot
+* frying pan
+* olive oil
+* colander
+* mixing bowl
+* spaghetti stirrer
+* stirring spoon
+* serving bowls
+* serving spoons
+* tri-color rotini
+* ground turkey
+* button mushrooms
+* yellow onion
+* parmesean cheese
+* salt
 
 # INSTRUCTIONS
 

@@ -4,19 +4,23 @@
 
 # Requirements
 
-* Instant Pot
+* crockpot
+* stovetop
+* wok
 * baking mittens
 * chef's knife
 * cutting board
 * colander
 * medium mixing bowl
+* plate
 * 4 serving bowls
 * measuring spoons
 * stirring spoon
 * garlic press
-* 1 tbsp olive oil
+* 3 tbsp olive oil
 * 1 lb turkey, ground
-* 1 cup unsalted chicken stock
+* 2 cup chicken stock
+* 1 cup water
 * 2 tbsp fish sauce
 * 1 tbsp light soy sauce
 * 1 can tomatoes, crushed
@@ -38,29 +42,17 @@
 * 1/2 cup scallions, chopped
 * 1 lime, sliced
 * 1 bag Frito chips
+* fresh cornbread (optional)
 
 # Instructions
 
-1. Set pot to Sauté mode.
-2. Season protein with salt, pepper.
-3. Wait for pot to preheat (when adding a few drops of water to the pot create a sizzle).
-4. Coat the bottom of the pot with olive oil.
-5. Sauté protein until it produces broth (about 5 min).
-6. Separate protein broth into mixing bowl.
-7. Stir chicken stock, fish sauce, soy sauce, tomato paste, cocoa powder into pot. Continue sautéing until protein is brown (about 6 min).
-8. Stir yellow onion, garlic, cumin, chili powder, cayenne, oregano into to pot.
-9. Continue sautéing until vegetables soften (about 5 min).
-10. Deglaze pot, scraping and stirring protein bits from the bottom of the pot into the middle of the chili.
-11. Stir the collected protein broth, beans, jalapeños into the pot.
-12. Layer crushed tomatoes on the top of the chili (do not stir).
-13. Seal the pot lid.
-14. Set pot to high pressure mode, such as “manual”.
-15. Cook for 20 min.
-16. Carefully release pressure valve.
-17. Stir in vinegar (optional).
-18. Cook for another 20 minutes.
-19. Pause heat.
-20. Wait 10 min for pressure to naturally release.
-21. Turn the pot off and unplug it.
-22. Carefully unseal lid.
-23. Serve with with scallions, cheese, lime, and/or chip garnish.
+1. Season protein with salt, pepper. Fry in olive oil. Set aside on a plate.
+2. Coat the bottom of the pot with olive oil.
+3. Stir chicken stock, fish sauce, soy sauce, tomato paste, cocoa powder into pot.
+4. Sauté yellow onion, garlic, into a carmelized mix.
+5. Combine protein, carmelized mix into pot.
+6. Set pot to low heat.
+7. Add beans, jalapeños, cumin, chili powder, cayenne, oregano into the pot.
+8. Layer crushed tomatoes on the top of the chili (do not stir).
+9. Cook 4 hours.
+10. Serve with with scallions, cheese, lime, chips, and/or cornbread garnish.

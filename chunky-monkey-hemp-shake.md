@@ -4,7 +4,7 @@ Thick, protein rich smoothie. Serves 2.
 
 # Requirements
 
-* 6 oz Greek vanilla yogurt
+* 6 oz plain Greek yogurt
 * 1/3 cup creamy peanut butter
 * 2 peeled, frozen bananas
 * 1/2 cup milk

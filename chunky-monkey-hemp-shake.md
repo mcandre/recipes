@@ -4,7 +4,7 @@ Thick, protein rich smoothie. Serves 2.
 
 # Requirements
 
-* 6 oz plain Greek yogurt
+* 1 cup plain Greek yogurt
 * 1/3 cup creamy peanut butter
 * 2 peeled, frozen bananas
 * 1/2 cup milk
@@ -18,4 +18,4 @@ Thick, protein rich smoothie. Serves 2.
 1. Chop bananas into bite-size pieces.
 2. Add yogurt to blender.
 2. Add all other ingredients to blender.
-3. Blend for 30 seconds.
+3. Blend 30 seconds.

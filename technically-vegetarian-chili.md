@@ -30,14 +30,14 @@
 * 1 medium yellow onion, diced
 * 1 tsp unsweetened cocoa powder
 * 1 tbsp chili powder
-* 1 tsp cayenne powder
+* 1/2 tsp cayenne powder
 * 1 tbsp cumin, ground
 * 1 tbsp apple cider vinegar (optional)
 * 1 tsp oregano
 * 1 tsp sea salt
 * 1 tsp black pepper, crushed
 * 4 garlic cloves, pressed
-* 4 jalapeños, ring sliced and seeded
+* 3 jalapeños, ring sliced and seeded
 * 1 cup sharp cheddar cheese, shredded
 * 1/2 cup scallions, chopped
 * 1 lime, sliced

@@ -19,8 +19,8 @@
 * garlic press
 * 3 tbsp olive oil
 * 1 lb turkey, ground
-* 2 cup chicken stock
-* 1 cup water
+* 1 cup chicken stock
+* 2 cup water
 * 2 tbsp fish sauce
 * 1 tbsp light soy sauce
 * 1 can tomatoes, crushed

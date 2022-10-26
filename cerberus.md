@@ -1,4 +1,4 @@
-# Cerberus
+# Cerberus: Strawberry Ginger Milkshake ejuice
 
 # REQUIREMENTS
 

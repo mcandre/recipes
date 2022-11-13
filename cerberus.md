@@ -10,9 +10,9 @@
 * 1 mL blunt tip syringe
 * 25 mL VG at 6 mg/mL nicotine
 * 1 mL PG
-* 1.8 mL TFA Ripe Strawberry
-* 1.8 mL TFA Vanilla Bean Ice Cream
-* 0.25 mL VTA Ginger Root
+* 2 mL TFA Ripe Strawberry
+* 2 mL TFA Vanilla Bean Ice Cream
+* 0.1 mL VTA Ginger Root
 
 # INSTRUCTIONS
 

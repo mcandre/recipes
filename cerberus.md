@@ -1,5 +1,9 @@
 # Cerberus: Strawberry Ginger Milkshake ejuice
 
+# WARNING
+
+Strictly for vaping. Do not eat.
+
 # REQUIREMENTS
 
 * 30 mL unicorn bottle

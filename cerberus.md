@@ -12,11 +12,11 @@ Strictly for vaping. Do not eat.
 * glass stirring rod
 * 10 mL graduated cylinder
 * 1 mL blunt tip syringe
-* 25 mL VG at 6 mg/mL nicotine
+* 26 mL VG at 6 mg/mL nicotine
 * 1 mL PG
 * 2 mL TFA Ripe Strawberry
 * 2 mL TFA Vanilla Bean Ice Cream
-* 0.1 mL VTA Ginger Root
+* 0.12 mL VTA Ginger Root
 
 # INSTRUCTIONS
 

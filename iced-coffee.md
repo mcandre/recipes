@@ -12,13 +12,15 @@
 * 4 cups water
 * 1 cup coarse-ground coffee beans
 
-This produces a somewhat strong cup of iced coffee. For a milder cup, reduce the amount of coffee beans, or use decaffeinated coffee beans.
+This produces a somewhat strong cup of iced coffee.
+
+For a milder cup, reduce cold brewing time, grind the beans at a courser level, reduce the amount of coffee beans, use more water, and/or use decaffeinated coffee beans.
 
 # INSTRUCTIONS
 
 1. Plunge french press.
 2. Add ground coffee beans and water to french press.
-3. Refrigerate 12 hours.
+3. Cold brew in refrigerator 12 hours.
 4. Filter cold brewed coffee into pitcher.
 5. Add ice to serving cup.
 6. Optionally, add a couple ounces of milk to serving cup.

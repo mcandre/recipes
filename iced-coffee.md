@@ -2,15 +2,17 @@
 
 # REQUIREMENTS
 
-* 1 cup coarse-ground coffee beans
-* 4 cups water
 * french press
 * refrigerator
 * pitcher
 * serving cups
 * ice
-* milk (optional)
 * whipped cream (optional)
+* milk (optional)
+* 4 cups water
+* 1 cup coarse-ground coffee beans
+
+This produces a somewhat strong cup of iced coffee. For a milder cup, reduce the amount of coffee beans.
 
 # INSTRUCTIONS
 

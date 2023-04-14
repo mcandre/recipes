@@ -12,7 +12,7 @@
 * 4 cups water
 * 1 cup coarse-ground coffee beans
 
-This produces a somewhat strong cup of iced coffee. For a milder cup, reduce the amount of coffee beans.
+This produces a somewhat strong cup of iced coffee. For a milder cup, reduce the amount of coffee beans, or use decaffeinated coffee beans.
 
 # INSTRUCTIONS
 

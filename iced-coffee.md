@@ -9,7 +9,7 @@
 * pitcher
 * serving cups
 * ice
-* milk
+* milk (optional)
 * whipped cream (optional)
 
 # INSTRUCTIONS
@@ -18,6 +18,7 @@
 2. Add ground coffee beans and water to french press.
 3. Refrigerate 12 hours.
 4. Filter cold brewed coffee into pitcher.
-5. Add ice and milk to serving cup.
-6. Add cold brewed coffee to serving cup.
-7. Optionally, add whipped cream.
+5. Add ice to serving cup.
+6. Optionally, add a couple ounces of milk to serving cup.
+7. Fill serving cup with cold brewed coffee.
+8. Optionally, top with whipped cream.

@@ -10,7 +10,7 @@
 * whipped cream (optional)
 * milk (optional)
 * 4 cups water
-* 1 cup coarse-ground coffee beans
+* 0.5 cup coarse-ground coffee beans
 
 This produces a somewhat strong cup of iced coffee.
 

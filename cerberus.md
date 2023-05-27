@@ -27,3 +27,5 @@ Strictly for vaping. Do not eat.
 Recommended use: A rebuildable atomizer (RDA, RTA, RBA, etc.) at 35 W.
 
 For best flavor, water-rinse and dry unicorn bottle between refills.
+
+Store ejuice bottles in Ziploc bags, at room temperature, away from sunlight.

@@ -1,29 +1,25 @@
-# Chomp Salad
+# CHOMP SALAD
 
-Serves 3.
+# REQUIREMENTS
 
-## REQUIREMENTS
+• chef's knife
+• cutting board
+• mixing bowl
+• tinfoil
+• mixing spoon
+• serving bowl
+• serving fork
+• smoked salmon
+• 1 head lettuce, chopped
+• 1 carrot, peeled
+• 1/2 red onion, julienned
+• 1/2 cucumber, sliced
+• 1 tomato, sliced
+• button mushrooms, sliced
+• sesame ginger salad dressing
 
-* chef's knife
-* vegetable peeler
-* Mixing bowl
-* Stirring spoon
-* Serving bowls
-* Iceberg lettuce
-* cherry tomatoes
-* bell peppers (optional)
-* button mushrooms
-* red onion
-* carrots
-* sesame ginger salad dressing
+# INSTRUCTIONS
 
-# Preparation
-
-1. Chop iceberg lettuce, onion.
-2. Peel carrots.
-3. Stir vegetables together.
-
-Add bell peppers if you want more crunch.
-
-4. Lightly drizzle dressing.
-5. Mix, serve.
+1. Mix vegetables.
+2. Serve with sesame ginger dressing.
+3. Refrigerate leftovers.

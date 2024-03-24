@@ -8,11 +8,11 @@
 * baking gloves
 * mixing bowl
 * whisk
-* 1 qt unsalted peanuts, de-shelled
+* 4 cups unsalted peanuts, de-shelled
 * 2 oz lime juice
 * 2 tbsp Mexican chili powder
-* 3/4 tsp cayenne powder
 * 1 tbsp salt
+* 0.75 tsp cayenne powder
 
 # INSTRUCTIONS
 

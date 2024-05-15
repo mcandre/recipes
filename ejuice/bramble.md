@@ -14,9 +14,9 @@ Strictly for vaping. Do not eat.
 * 1 mL blunt tip syringe
 * 25 mL VG at 12 mg/mL nicotine
 * 1 mL PG
-* 1.8 mL TFA Blackberry
-* 0.5 mL TFA Mojito
-* 0.5 mL TFA Cotton Candy
+* 2 mL TFA Blackberry
+* 0.4 mL TFA Mojito
+* 0.4 mL TFA Cotton Candy
 * 0.4 mL TFA Key Lime
 * 0.1 mL TFA Honeysuckle
 

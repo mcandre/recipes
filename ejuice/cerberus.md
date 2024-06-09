@@ -16,7 +16,7 @@ Strictly for vaping. Do not eat.
 * 1 mL PG
 * 2 mL TFA Ripe Strawberry
 * 1 mL TFA Vanilla Bean Ice Cream
-* 0.25 mL VTA Ginger Root
+* 0.1 mL VTA Ginger Root
 
 # INSTRUCTIONS
 

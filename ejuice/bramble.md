@@ -30,7 +30,7 @@ Shake & Vape
 2. Stir.
 3. Shake.
 
-Recommended use: A rebuildable atomizer (RDA, RTA, RBA, etc.) at 40 W.
+Recommended use: A rebuildable atomizer (RDA, RTA, RBA, etc.) at 35 W.
 
 For best flavor, water-rinse and dry unicorn bottle between refills.
 

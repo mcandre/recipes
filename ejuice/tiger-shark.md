@@ -4,6 +4,10 @@
 
 Strictly for vaping. Do not eat.
 
+# STEEP TIME
+
+1 day
+
 # REQUIREMENTS
 
 * 30 mL unicorn bottle

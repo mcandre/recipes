@@ -18,11 +18,10 @@ Strictly for vaping. Do not eat.
 * 1 mL blunt tip syringe
 * 25mL VG at 12 mg/mL nicotine
 * 1 mL PG
-* 0.75 mL TFA Orange Cream
-* 0.75 mL TFA Vanilla Bean Ice Cream
-* 0.75 mL CAP Golden Pineapple
-* 0.75 mL TFA Pineapple
-* 0.25 mL TFA Dragonfruit
+* 1 mL CAP Golden Pineapple
+* 1 mL TFA Pineapple
+* 0.5 mL TFA Orange Cream
+* 0.5 mL TFA Dragonfruit
 * 0.1 mL TFA Greek Yogurt
 * 0.1 mL CAP Sweet Lychee
 

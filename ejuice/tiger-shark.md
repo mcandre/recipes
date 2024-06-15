@@ -16,14 +16,15 @@ Strictly for vaping. Do not eat.
 * glass stirring rod
 * 10 mL graduated cylinder
 * 1 mL blunt tip syringe
-* 25 mL VG at 12 mg/mL nicotine
-* 1 mL PG
-* 1.0 mL TFA Pineapple
-* 0.8 mL CAP Sweet Mango
-* 0.8 mL Orange Cream
-* 0.8 mL TFA Whipped Cream
-* 0.5 mL TFA Dragonfruit
-* 0.1 mL CAP Sweet Lychee
+* 25.00 mL VG at 12 mg/mL nicotine
+* 01.00 mL PG
+* 00.75 mL TFA Orange Cream
+* 00.75 mL TFA Vanilla Bean Ice Cream
+* 00.75 mL CAP Golden Pineapple
+* 00.75 mL TFA Pineapple
+* 00.25 mL TFA Dragonfruit
+* 00.10 mL TFA Greek Yogurt
+* 00.10 mL CAP Sweet Lychee
 
 # INSTRUCTIONS
 

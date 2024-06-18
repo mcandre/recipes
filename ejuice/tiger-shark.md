@@ -20,9 +20,8 @@ Strictly for vaping. Do not eat.
 * 1 mL PG
 * 1 mL CAP Golden Pineapple
 * 1 mL TFA Pineapple
-* 0.5 mL TFA Orange Cream
+* 0.5 mL TFA Whipped Cream
 * 0.5 mL TFA Dragonfruit
-* 0.1 mL TFA Greek Yogurt
 * 0.1 mL CAP Sweet Lychee
 
 # INSTRUCTIONS

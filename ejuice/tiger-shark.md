@@ -23,7 +23,7 @@ Strictly for vaping. Do not eat.
 * 0.5 mL TFA Whipped Cream
 * 0.5 mL TFA Dragonfruit
 * 0.1 mL CAP Sweet Lychee
-* 0.05 mL TFA Greek Yogurt
+* 0.1 mL TFA Greek Yogurt
 
 # INSTRUCTIONS
 

@@ -18,8 +18,8 @@ Strictly for vaping. Do not eat.
 * 1 mL blunt tip syringe
 * 25mL VG at 12 mg/mL nicotine
 * 1 mL PG
+* 1.5 mL TFA Banana Cream
 * 1 mL INW Raspberry Shisha
-* 1 mL TFA Banana Cream
 * 0.5 mL TFA Malted Milk
 
 # INSTRUCTIONS

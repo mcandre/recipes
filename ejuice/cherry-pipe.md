@@ -18,11 +18,12 @@ Strictly for vaping. Do not eat.
 * 1 mL blunt tip syringe
 * 25mL VG at 12 mg/mL nicotine
 * 1 mL PG
-* 1 mL TFA Vanilla Swirl
+* 0.6 mL TFA Vanilla Swirl
+* 0.4 mL CAP Graham Cracker
 * 0.5 mL TFA Black Cherry
 * 0.5 mL SSA Compote Cherry
 * 0.5 mL SSA Juicy Cherries
-* 0.25 mL FLV Fig
+* 0.3 mL FLV Fig
 
 # INSTRUCTIONS
 

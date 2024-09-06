@@ -22,8 +22,8 @@ Strictly for vaping. Do not eat.
 * 0.6 mL SSA Compote Cherry
 * 0.6 mL SSA Juicy Cherries
 * 0.3 mL TFA Vanilla Swirl
-* 0.3 mL CAP Graham Cracker
 * 0.2 mL FLV Fig
+* 0.1 mL CAP Graham Cracker
 
 # INSTRUCTIONS
 
